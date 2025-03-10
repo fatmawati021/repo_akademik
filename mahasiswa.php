@@ -7,6 +7,9 @@
         <hr>
         <h6>NIM : 23110011</h6><br>
         <h6>Nama : Fatmawati</h6><br>
+        <h6>Ketua Kelas</h6><br>
+         <h6>NIM : 23110042</h6><br>
+         <h6>Joko brilian</h6><br>
         <a href="index.php">Kembali</a>
     </body>
 </html>
